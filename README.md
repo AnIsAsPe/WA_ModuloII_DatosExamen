@@ -17,4 +17,4 @@ Las características (X) contienen:
 * el número de fotos adjuntas al anuncio
 * indicadores de si hay sótano, balcón, aire acondicionado...
 
-Además se presenta un diccionario de datos en formato xls
+Además se presenta un diccionario de datos en formato xlsx
